@@ -171,3 +171,53 @@ main {
 }
 
 /* vission future container with card end  */
+
+/* recent news section start  */
+.card-news {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.card-news-rev {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.card-news-info {
+    width: 50%;
+}
+
+.card-imgsat-container img {
+    width: 350px;
+    height: 280px;
+    border-radius: 15px;
+    margin: 40px 0px;
+}
+
+.date-time-con {
+    display: flex;
+    gap: 5px;
+}
+
+.news-btn {
+    border-radius: 5px;
+    background: rgb(0, 106, 80);
+    padding: 10px 15px;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+}
+
+.news-btn:hover {
+    background: rgb(4, 194, 146);
+}
+
+/* recent news section end  */
