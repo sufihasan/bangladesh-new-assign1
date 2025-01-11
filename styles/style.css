@@ -256,3 +256,53 @@ main {
     border: none;
 
 }
+
+.subscribe-letter {
+    text-align: center;
+    background-color: #c6e4d6;
+    padding: 30px 0px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+
+
+.subscribe-letter input {
+    width: 40%;
+    padding: 13px 15px;
+    margin-right: -2px;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+}
+
+.subscribe-letter button {
+    padding: 11px;
+    margin-left: -3px;
+    border-radius: 0px 5px 5px 0px;
+
+    background: rgb(0, 106, 80);
+    padding: 14px 16px;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    border: none;
+
+}
+
+.yunus-container {
+    background: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 15px;
+    background-image: url('../images/assets/quotebg.png');
+    background-repeat: no-repeat;
+    background-position: left 26px top 15px;
+
+}
+
+.yunus-container h3 {
+    margin-bottom: 5px;
+}
+
+#younus-designation {
+    margin-top: 0px;
+}
