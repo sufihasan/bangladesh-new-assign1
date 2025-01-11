@@ -210,7 +210,7 @@ main {
 .news-btn {
     border-radius: 5px;
     background: rgb(0, 106, 80);
-    padding: 10px 15px;
+    padding: 12px 16px;
     border: 0px;
     color: white;
     font-weight: bold;
@@ -221,3 +221,38 @@ main {
 }
 
 /* recent news section end  */
+
+
+.donate-to-day-container {
+    text-align: center;
+    padding: 50px 85px;
+}
+
+#taka-bg-color {
+    background: rgb(198, 228, 214);
+}
+
+.taka-donet {
+    font-size: 25px;
+    font-weight: 800;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: white;
+    border: none;
+}
+
+.taka-donet:hover {
+    background-color: rgb(198, 228, 214);
+}
+
+.donet-input-con input {
+    width: 80%;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+
+}
